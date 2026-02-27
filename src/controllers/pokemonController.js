@@ -113,7 +113,6 @@ export const getPokemonByType = async (req, res) => {
   }
 };
 
-
 // ============================================
 // API CONTROLLERS (Return JSON)
 // ============================================
